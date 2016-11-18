@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.scs56.com/JiaXing_OA.ipa</string>
+					<string>http://www.scs56.com:8000/JiaXing_OA.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.scs56.com/Icon.png</string>
+					<string>http://www.scs56.com:8000/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.scs56.com/Icon@2x.png</string>
+					<string>http://www.scs56.com:8000/Icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
